@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Ashesh Vidyut.
-- 👀 I’m interested in datastructures/algorithms/competitive programming/backend/frontend development.
 - 🌱 I’m currently working at [@Google](https://github.com/google/) as Sr Software Engineer.
 - 😄 Pronouns: he/him/his
